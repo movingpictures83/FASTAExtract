@@ -1,0 +1,3 @@
+fasta	genome.fasta
+start	9391
+end	9993
